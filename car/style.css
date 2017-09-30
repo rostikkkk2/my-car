@@ -1,0 +1,95 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.car{
+	margin-top: 100px;
+}
+.roof-car{
+	background-color: blue;
+	padding-top: 25px;
+	width: 25px;
+	margin: auto;
+	border-radius: 20px 20px 0 0;
+}
+
+.salon-car{
+	background-color: red;
+	padding-top: 50px;
+	width: 230px;
+  margin: auto;
+  border-radius: 70px 70px 0 0;
+}
+
+.hood-car{
+	background-color: grey;
+	width: 330px;
+  margin: auto;
+  border-radius: 70px 70px 70px 70px;
+	text-align: center;
+}
+
+.first-headlamp{
+	padding-top: 25px;
+	background-color: blue;
+	display: inline-block;
+	border-radius: 30px;
+	width: 25px;
+	margin-top: 40px;
+}
+
+.BMW{
+	display: inline-block;
+	background-color: orange;
+	width: 30px;
+	margin-left: 55px;
+	padding-right: 10px;
+	margin-bottom: 40px;
+	border-color: red ;
+  border-style: solid;
+	
+}
+
+.secound-headlamp{
+	padding-top: 25px;
+	background-color: blue;
+	display: inline-block;
+	border-radius: 30px;
+	width: 25px;
+	margin-left: 60px;
+}
+
+.center{
+	text-align: center;
+}
+
+.first-wheel{
+	display: inline-block;
+	padding-top: 35px;
+	width: 22px;
+	background-color: orange;
+	border-radius: 10px 10px 20px 20px;
+}
+
+.secound-wheel{
+	display: inline-block;
+	padding-top: 35px;
+	width: 22px;
+  margin-left: 175px;
+	background-color: orange;
+	border-radius: 10px 10px 20px 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
